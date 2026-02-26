@@ -1,5 +1,5 @@
 # TZX for Roblox
--- !!This is almsot FULLY vibe coded!!
+<small> !!This is almsot FULLY vibe coded!!
 
 ## Ever wanted to use the fiveM menu "TZX" in Roblox (for some reason)? Worry no more, I did too!
 
